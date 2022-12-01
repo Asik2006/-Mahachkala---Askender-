@@ -1,5 +1,1 @@
-print('gdgfdgdg')
-if True:
-    pass
-if True:
-    pass
+print('My first git-repo')
